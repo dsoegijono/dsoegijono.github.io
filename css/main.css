@@ -37,6 +37,10 @@ a:visited { color: #205caa; }
   zoom: 1;
 }
 
+.clear {
+    clear: both;
+}
+
 
 /* Layout Styles */
 /* ----------------------------------------------------------*/
@@ -81,6 +85,9 @@ a:visited { color: #205caa; }
 .site-footer {
   border-top: 1px solid #e8e8e8;
   padding: 30px 0;
+  position: fixed;
+  width: 100%;
+  bottom: 0;
 }
 
 .footer-heading {
@@ -139,10 +146,24 @@ a:visited { color: #205caa; }
 /* ----------------------------------------------------------*/
 
 .page-content {
-  padding: 30px 0;
+  padding: 200px 0;
   background-color: #fff;
 }
 
+.profiles {
+  text-align: center;
+}
+
+.profiles a,
+.profiles a:visited {
+  padding: 20px;
+  color: #aaa;
+  text-decoration: none;
+}
+
+.profiles a:hover {
+  color: #2a7ae2;
+}
 
 /* Home styles */
 /* ----------------------------------------------------------*/
