@@ -13,9 +13,9 @@
       </div>
     </div>
     
-    <div class="clear"></div>
-
-    <!-- {% include footer.html %} -->
-
+    {% if page.id != 'home' %}
+    {%   include footer.html %}
+    {% endif %}
+        
     </body>
 </html>
