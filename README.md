@@ -1,4 +1,1 @@
-dsoegijono.github.io
-====================
-
-My personal website
+My personal website: http://dsoegijono.github.io
