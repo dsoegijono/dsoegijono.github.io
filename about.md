@@ -16,3 +16,7 @@ I am a software engineer with a Bachelor of Science degree in Computer Science f
   - Hotel reservation website
 
 [ ](A pdf version of my resume can be found here. **Add link!**)
+
+####Contact Me
+
+If you'd like to contact me, please send me an <a href="mailto:me@daphnesoegijono.com">email</a>, or you can find me on: <a title="Google+" href="https://plus.google.com/105299270876688639508/">Google+</a>, <a title="Twitter" href="https://www.twitter.com/{{ site.username }}">Twitter</a> (private for now), <a title="GitHub" href="https://github.com/dsoegijono/dsoegijono.github.io/issues">GitHub</a>.
