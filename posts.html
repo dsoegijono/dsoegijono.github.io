@@ -1,0 +1,19 @@
+---
+id: posts
+layout: page
+title: Posts
+description: List of blog posts.
+permalink: /posts/
+---
+
+<div class="posts">
+  {% for post in site.posts %}
+    <a href="{{ post.url }}">{{ post.title }}</a> <span>{{ post.date | date: "%d %B %Y" }}</span>
+    <p>
+        {{ post.description }}
+    </p>
+    {% if post.tags != null %}
+      <p><span style="vertical-align: top;">Tags: {{ post.tags }}</span></p>
+    {% endif %}
+  {% endfor %}
+</div>
