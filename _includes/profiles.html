@@ -1,39 +1,7 @@
 <div class="profiles">
-    <a title="GitHub" href="https://www.github.com/{{ site.username }}">
-        <!-- TODO: {{ site.data.accounts.github.site }} -->
-        <i class="fa fa-github fa-2x"></i>
+    {% for site in site.data.profiles %}
+    <a title="{{ site.name }}" href="{{ site.url }}">
+        <i class="fa fa-{{ site.icon }} fa-2x"></i>
     </a>
-    <a title="LinkedIn" href="http://www.linkedin.com/in/{{ site.username }}">
-        <i class="fa fa-linkedin fa-2x"></i>
-    </a>
-    <a title="Twitter" href="https://www.twitter.com/{{ site.username }}">
-        <i class="fa fa-twitter fa-2x"></i>
-    </a>
-    <a title="Facebook" href="https://www.facebook.com/d.soegijono">
-        <i class="fa fa-facebook fa-2x"></i>
-    </a>
-    <a title="Google+" href="https://plus.google.com/105299270876688639508/">
-        <i class="fa fa-google-plus fa-2x"></i>
-    </a>
-    <a title="Skype" href="skype:{{ site.username }}?userinfo">
-        <i class="fa fa-skype fa-2x"></i>
-    </a>
-    <a title="Instagram" href="http://instagram.com/{{ site.username }}">
-        <i class="fa fa-instagram fa-2x"></i>
-    </a>
-    <a title="Steam" href="http://steamcommunity.com/id/an0nymouz">
-        <i class="fa fa-steam fa-2x"></i>
-    </a>
-    <a title="Reddit" href="http://www.reddit.com/user/thisisdee">
-        <i class="fa fa-reddit fa-2x"></i>
-    </a>
-    <a title="jsfiddle" href="http://jsfiddle.net/user/dsoegijono/">
-        <i class="fa fa-jsfiddle fa-2x"></i>
-    </a>
-    <a title="stackoverflow" href="http://stackoverflow.com/users/861815/dee">
-        <i class="fa fa-stack-overflow fa-2x"></i>
-    </a>
-    <a title="Blog" href="http://dsoegijono.blogspot.com">
-        <i class="fa fa-pencil fa-2x"></i>
-    </a>
+    {% endfor %}
 </div>

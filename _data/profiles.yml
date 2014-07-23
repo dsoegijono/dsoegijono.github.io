@@ -1,0 +1,47 @@
+- name: Blogger
+  url: http://dsoegijono.blogspot.com
+  icon: pencil
+
+- name: Facebook
+  url: https://www.facebook.com/d.soegijono
+  icon: facebook
+  
+- name: GitHub
+  url: https://www.github.com/dsoegijono
+  icon: github
+  
+- name: Google+
+  url: https://plus.google.com/105299270876688639508/
+  icon: google-plus-square
+
+- name: Instagram
+  url: http://instagram.com/dsoegijono
+  icon: instagram
+
+- name: jsfiddle
+  url: http://jsfiddle.net/user/dsoegijono/
+  icon: jsfiddle
+
+- name: LinkedIn
+  url: http://www.linkedin.com/in/dsoegijono
+  icon: linkedin
+
+- name: Reddit
+  url: http://www.reddit.com/user/thisisdee
+  icon: reddit
+
+- name: Skype
+  url: skype:dsoegijono?userinfo
+  icon: skype
+
+- name: stackoverflow
+  url: http://stackoverflow.com/users/861815/dee
+  icon: stack-overflow
+
+- name: Steam
+  url: http://steamcommunity.com/id/an0nymouz
+  icon: steam-square
+
+- name: Twitter
+  url: https://www.twitter.com/dsoegijono
+  icon: twitter
