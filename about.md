@@ -17,4 +17,4 @@ I am a software engineer with a Bachelor of Science degree in Computer Science f
 
 ####Contact Me
 
-If you'd like to contact me, you can <a href="mailto:me@daphnesoegijono.com">email me</a>, <a title="Twitter" href="https://www.twitter.com/dsoegijono">tweet me</a>, or find me on any of the sites listed below.
+If you'd like to contact me, you can <a href="mailto:d.soegijono@gmail.com">email me</a>, <a title="Twitter" href="https://www.twitter.com/dsoegijono">tweet me</a>, or find me on any of the sites listed below.
