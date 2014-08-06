@@ -4,7 +4,7 @@
 
 - name: Facebook
   url: https://www.facebook.com/d.soegijono
-  icon: facebook
+  icon: facebook-square
   
 - name: GitHub
   url: https://www.github.com/dsoegijono
