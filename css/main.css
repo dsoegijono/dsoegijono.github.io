@@ -167,8 +167,15 @@ a:visited { color: #57878b; }
   background-color: #fff;
 }
 
-.profiles {
-  /*text-align: center;*/
+.home-profiles {
+  text-align: center;
+}
+
+.home-profiles a,
+.home-profiles a:visited {
+  color: #aaa;
+  padding: 0 20px;
+  text-decoration: none;
 }
 
 .profiles a,
@@ -177,7 +184,8 @@ a:visited { color: #57878b; }
   text-decoration: none;
 }
 
-.profiles a:hover {
+.profiles a:hover,
+.home-profiles a:hover {
   color: #57878b;
 }
 
