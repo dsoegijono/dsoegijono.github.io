@@ -168,18 +168,24 @@ a:visited { color: #57878b; }
 }
 
 .profiles {
-  text-align: center;
+  /*text-align: center;*/
 }
 
 .profiles a,
 .profiles a:visited {
-  padding: 20px;
-  color: #aaa;
+  color: #333;
   text-decoration: none;
 }
 
 .profiles a:hover {
   color: #57878b;
+}
+
+.profiles ul li {
+  float: left;
+  width: 30%;
+  min-width: 120px;
+  margin: 5px;
 }
 
 /* Home styles */
