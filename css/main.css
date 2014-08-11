@@ -21,9 +21,9 @@ body {
 
 h1, h2, h3, h4, h5, h6 { font-size: 100%; font-weight: 400; }
 
-a         { color: #2a7ae2; text-decoration: none; }
-a:hover   { color: #000; text-decoration: underline; }
-a:visited { color: #205caa; }
+a         { color: #57878b; text-decoration: none; }
+a:hover   { color: #3a515f; text-decoration: underline; }
+a:visited { color: #57878b; }
 
 /* Utility */
 
@@ -163,28 +163,46 @@ a:visited { color: #205caa; }
 /* ----------------------------------------------------------*/
 
 .page-content {
-  padding: 30px 0 70px 0;
+  padding: 30px 0 30px 0;
   background-color: #fff;
 }
 
-.profiles {
+.home-profiles {
   text-align: center;
+}
+
+.home-profiles a,
+.home-profiles a:visited {
+  color: #aaa;
+  padding: 0 20px;
+  text-decoration: none;
 }
 
 .profiles a,
 .profiles a:visited {
-  padding: 20px;
-  color: #aaa;
+  color: #333;
   text-decoration: none;
 }
 
-.profiles a:hover {
-  color: #2a7ae2;
+.profiles a:hover,
+.home-profiles a:hover {
+  color: #57878b;
+}
+
+.profiles ul li {
+  float: left;
+  width: 30%;
+  min-width: 120px;
+  margin: 5px;
 }
 
 .posts span {
   font-size: 70%;
   color: #818181;
+}
+
+.post {
+  margin-top: 10px;
 }
 
 /* Home styles */
@@ -288,6 +306,23 @@ a:visited { color: #205caa; }
 .post ol { margin-left: 1.35em; }
 
 .post pre code { border: none; }
+
+/* Media */
+.video-container {
+    position: relative;
+    padding-bottom: 56.25%;
+    padding-top: 35px;
+    height: 0;
+    overflow: hidden;
+}
+
+.video-container iframe {
+    position: absolute;
+    top:0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
 
 /* terminal */
 .post pre.terminal {
