@@ -5,11 +5,15 @@
 - name: Facebook
   url: https://www.facebook.com/d.soegijono
   icon: facebook-square
-  
+
+- name: Foursquare
+  url: https://foursquare.com/dsoegijono
+  icon: foursquare
+
 - name: GitHub
   url: https://www.github.com/dsoegijono
   icon: github
-  
+
 - name: Google+
   url: https://plus.google.com/105299270876688639508/
   icon: google-plus-square
@@ -45,3 +49,15 @@
 - name: Twitter
   url: https://www.twitter.com/dsoegijono
   icon: twitter
+
+
+### No icons
+
+- name: Ask.fm
+  url: http://ask.fm/dsoegijono
+
+- name: Codecademy
+  url: http://www.codecademy.com/dsoegijono
+
+- name: Coursera
+  url: https://www.coursera.org/user/i/e64b16028d80fc50945040ff35e6739a
