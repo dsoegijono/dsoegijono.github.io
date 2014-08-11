@@ -1,10 +1,9 @@
 # Site settings
 title: Daphne Soegijono
-email: me@daphnesoegijono.com
+email: d.soegijono@gmail.com
 description: "The personal website of Daphne Soegijono."
 baseurl: ""
-url: "http://www.daphnesoegijono.com"
-username: dsoegijono
+url: "http://dsoegijono.github.io"
 
 # Build settings
 markdown: kramdown
