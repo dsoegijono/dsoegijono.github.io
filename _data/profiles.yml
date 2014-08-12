@@ -38,6 +38,10 @@
   url: skype:dsoegijono?userinfo
   icon: skype
 
+- name: Spotify
+  url: https://play.spotify.com/user/dsoegijono
+  icon: spotify
+
 - name: stackoverflow
   url: http://stackoverflow.com/users/861815/dee
   icon: stack-overflow
@@ -61,3 +65,6 @@
 
 - name: Coursera
   url: https://www.coursera.org/user/i/e64b16028d80fc50945040ff35e6739a
+
+- name: Last.fm
+  url: http://www.last.fm/user/dsoegijono
