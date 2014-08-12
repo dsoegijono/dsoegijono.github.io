@@ -30,6 +30,3 @@ If you'd like to contact me, you can <a href="mailto:d.soegijono@gmail.com">emai
     {% endfor %}
   </ul>
 </div>
-<!-- {% for site in site.data.profiles %}
-  - [<i class="fa fa-{{ site.icon }}"></i> {{ site.name }}]({{ site.url }})
-{% endfor %} -->

@@ -8,3 +8,8 @@ url: "http://dsoegijono.github.io"
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+exclude:
+  - README.md
+  - _drafts/
+  - feed.xml
