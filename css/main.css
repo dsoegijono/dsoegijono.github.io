@@ -379,7 +379,10 @@ a:visited { color: #57878b; }
     line-height: 36px;
   }
 
-  .site-nav .menu-icon svg { width: 18px; height: 16px; }
+  .site-nav .menu-icon svg {
+    width: 18px;
+    height: 16px;
+  }
 
   .site-nav .trigger {
     clear: both;
@@ -387,7 +390,9 @@ a:visited { color: #57878b; }
     display: none;
   }
 
-  .site-nav:hover .trigger { display: block; }
+  .site-nav:hover .trigger {
+    display: block;
+  }
 
   .site-nav .page-link {
     display: block;

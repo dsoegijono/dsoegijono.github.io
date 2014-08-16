@@ -5,15 +5,13 @@
 
     <body>
 
-    {% if page.id != 'home' %}
-    {%   include header.html %}
-    {% endif %}
+      {% include header.html %}
 
-    <div class="page-content">
-      <div class="wrap">
-      {{ content }}
+      <div class="page-content">
+        <div class="wrap">
+        {{ content }}
+        </div>
       </div>
-    </div>
 
     </body>
 </html>
