@@ -2,7 +2,6 @@
 title: Daphne Soegijono
 email: d.soegijono@gmail.com
 description: "The personal website of Daphne Soegijono."
-baseurl: ""
 url: "http://dsoegijono.github.io"
 
 # Build settings
@@ -11,5 +10,4 @@ permalink: pretty
 
 exclude:
   - README.md
-  - _drafts/
   - feed.xml

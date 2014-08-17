@@ -162,9 +162,10 @@ a:visited { color: #57878b; }
 
 .post-header h2 {
   font-size: 18px;
-  line-height: .75;
+  line-height: .9;
   font-weight: 300;
   color: #777777;
+  margin-left: 5px;
 }
 
 .post-header .meta {
