@@ -136,15 +136,15 @@ a:visited { color: #57878b; }
 .posts li { margin-bottom: 30px; }
 
 .posts .post-link {
-  font-size: 24px;
-  letter-spacing: -1px;
-  line-height: 1;
+  line-height: 1.5;
+  font-size: 1.1em;
 }
 
 .posts .post-date {
   display: block;
   font-size: 15px;
   color: #818181;
+  line-height: 1.5;
 }
 
 
@@ -177,7 +177,6 @@ a:visited { color: #57878b; }
 .post-content { margin: 0 0 30px; }
 
 .post-content > * { margin: 20px 0; }
-
 
 .post-content h1,
 .post-content h2,
@@ -216,7 +215,9 @@ a:visited { color: #57878b; }
 }
 
 .post-content ul,
-.post-content ol { padding-left: 20px; }
+.post-content ol {
+  padding-left: 20px;
+}
 
 .post pre,
 .post code {
@@ -233,6 +234,7 @@ a:visited { color: #57878b; }
 
 .post ul,
 .post ol { margin-left: 1.35em; }
+.post li { margin-bottom: 5px; }
 
 .post pre code { border: none; }
 
@@ -409,7 +411,13 @@ a:visited { color: #57878b; }
   .post-content h4 { font-size: 18px; }
   .post-content blockquote { padding-left: 10px; }
   .post-content ul,
-  .post-content ol { padding-left: 10px; }
+  .post-content ol {
+    padding-left: 10px;
+  }
+  .post ul,
+  .post ol {
+    margin-left: 1em;
+  }
 
   .site-footer .column {
     float: none;

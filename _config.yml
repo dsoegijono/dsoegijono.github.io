@@ -5,7 +5,9 @@ description: "The personal website of Daphne Soegijono."
 url: "http://dsoegijono.github.io"
 
 # Build settings
-markdown: kramdown
+markdown: redcarpet
+redcarpet:
+  extensions: ["strikethrough"]
 permalink: pretty
 
 exclude:
