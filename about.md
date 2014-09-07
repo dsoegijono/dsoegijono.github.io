@@ -22,7 +22,7 @@ Dreams of travelling the world. Secretly dreams of being a writer.
 If you'd like to contact me, you can <a href="mailto:d.soegijono@gmail.com">email me</a>,
 <a title="Twitter" href="https://twitter.com/intent/tweet?screen_name=dsoegijono">tweet me</a>, or find me on any of the sites listed below.
 
-####All Profiles
+####Me Around the Web
 
 <div class="profiles">
   <ul>
