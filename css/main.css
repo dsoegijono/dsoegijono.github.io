@@ -12,14 +12,18 @@ html, body {
 }
 
 body {
-  font-family: "Oxygen", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "Lato Light", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 16px;
   line-height: 1.5;
   font-weight: 300;
   background-color: #fdfdfd;
 }
 
-h1, h2, h3, h4, h5, h6 { font-size: 100%; font-weight: 400; }
+h1, h2, h3, h4, h5, h6 {
+  font-size: 100%;
+  font-weight: 400;
+  font-family: "Raleway", Arial;
+}
 
 a         { color: #57878b; text-decoration: none; }
 a:hover   { color: #3a515f; text-decoration: underline; }
