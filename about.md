@@ -13,8 +13,9 @@ Dreams of travelling the world. Secretly dreams of being a writer.
 
 ####Experiences
 
-- Software Engineer at [SaaS*hr* / A Kronos Company](http://saashr.com/ta/shr2/index.jsp) (June 2011 - November 2013)
+- Software Development Consultant at [Gimmie](http://www.gimmie.io/) (September 2014 - present)
 - Freelance software engineer (March 2014 - present)
+- Software Engineer at [SaaS*hr* / A Kronos Company](http://saashr.com/ta/shr2/index.jsp) (June 2011 - November 2013)
 
 ####Contact Me
 
