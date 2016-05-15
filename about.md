@@ -9,11 +9,12 @@ permalink: /about/
 I am a software engineer with a Bachelor of Science degree in Computer Science from [Rutgers University](http://nb.rutgers.edu/).
 
 [Manchester United](http://www.manutd.com/) fanatic, [loves TV shows and movies](http://my-sedentary-life.blogspot.com/), runs on coffee.
-Dreams of travelling the world. Secretly dreams of being a writer.
+Dreams of travelling the world; secretly dreams of being a writer.
 
 ####Experiences
 
-- Software Developer at [Gimmie](http://www.gimmie.io/) (September 2014 - present)
+- Software Engineer, Web/Payments at [Invoice2go](https://invoice.2go.com/en-au/) (August 2105 - present)
+- Software Developer at [Gimmie](http://www.gimmie.io/) (September 2014 - July 2015)
 - Freelance software engineer (March 2014 - October 2014)
 - Software Engineer at [SaaS*hr* / A Kronos Company](http://saashr.com/ta/shr2/index.jsp) (June 2011 - November 2013)
 
