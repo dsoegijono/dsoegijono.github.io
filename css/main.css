@@ -88,11 +88,12 @@ a:visited { color: #57878b; }
 /* ----------------------------------------------------------*/
 
 .page-content {
-  padding: 30px 0 30px 0;
+  height: 1vh;
   background-color: #fff;
 }
 
 .home-profiles {
+  padding-top: 30%;
   text-align: center;
 }
 
