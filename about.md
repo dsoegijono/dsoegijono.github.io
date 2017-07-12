@@ -13,7 +13,7 @@ Dreams of travelling the world; secretly dreams of being a writer.
 
 #### Experiences
 
-- Software Engineer, Web/Payments at [Invoice2go](https://invoice.2go.com/en-au/) (August 2105 - present)
+- Software Engineer, Web/Payments at [Invoice2go](https://invoice.2go.com/en-au/) (August 2015 - present)
 - Software Developer at [Gimmie](http://www.gimmie.io/) (September 2014 - July 2015)
 - Freelance software engineer (March 2014 - October 2014)
 - Software Engineer at [SaaS*hr* / A Kronos Company](http://saashr.com/ta/shr2/index.jsp) (June 2011 - November 2013)
