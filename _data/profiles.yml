@@ -2,17 +2,9 @@
   url: https://angel.co/dsoegijono
   icon: angellist
 
-- name: Ask.fm
-  url: http://ask.fm/dsoegijono
-  icon: question
-
 - name: Blogger
   url: http://dsoegijono.blogspot.com
   icon: pencil
-
-- name: Codecademy
-  url: http://www.codecademy.com/dsoegijono
-  icon: code
 
 - name: Facebook
   url: https://www.facebook.com/d.soegijono
@@ -21,10 +13,6 @@
 - name: GitHub
   url: https://www.github.com/dsoegijono
   icon: github
-
-- name: Google+
-  url: https://plus.google.com/105299270876688639508/
-  icon: google-plus-square
 
 - name: Instagram
   url: http://instagram.com/dsoegijono
@@ -50,10 +38,6 @@
   url: skype:dsoegijono?userinfo
   icon: skype
 
-- name: Spotify
-  url: https://play.spotify.com/user/dsoegijono
-  icon: spotify
-
 - name: stackoverflow
   url: http://stackoverflow.com/users/861815/dee
   icon: stack-overflow
@@ -65,3 +49,7 @@
 - name: Twitter
   url: https://www.twitter.com/dsoegijono
   icon: twitter
+
+- name: World Cube Association
+  url: https://www.worldcubeassociation.org/persons/2018SOEG01
+  icon: cube
