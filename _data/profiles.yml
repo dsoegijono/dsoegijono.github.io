@@ -30,6 +30,10 @@
   url: http://www.linkedin.com/in/dsoegijono
   icon: linkedin
 
+- name: Mastodon
+  url: https://mastodon.au/@thisisdee
+  icon: mastodon
+
 - name: Reddit
   url: http://www.reddit.com/user/thisisdee
   icon: reddit
